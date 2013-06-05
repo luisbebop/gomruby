@@ -6,6 +6,7 @@ test:
 	LD_LIBRARY_PATH=`pwd` go test -v -gocheck.v
 
 common:
+	go run tmp/ls.go
 	cd mruby && git clean -xdf && make
 	go get -u launchpad.net/gocheck
 
