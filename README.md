@@ -21,4 +21,5 @@ Issues on MacOS X 10.6.8
    
 
 Issues on Ubuntu and MacOS X 10.6.8
+----------
     http://stackoverflow.com/questions/16747021/how-do-you-statically-link-a-c-library-in-go-using-cgo
