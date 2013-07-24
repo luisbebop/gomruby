@@ -17,9 +17,5 @@ mruby is built statically, use gomruby as typical Go package.
 
 Issues on MacOS X 10.6.8
 -----------
+	https://code.google.com/p/go/issues/detail?id=5740
     https://codereview.appspot.com/10345046
-   
-
-Issues on Ubuntu and MacOS X 10.6.8
-----------
-    http://stackoverflow.com/questions/16747021/how-do-you-statically-link-a-c-library-in-go-using-cgo
