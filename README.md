@@ -13,6 +13,4 @@ It's slightly more than just `go get`:
     cd $GOPATH/src/github.com/AlekSi/gomruby
     make
 
-mruby is built statically, use gomruby as typical Go package.
-Tested on Go 1.2rc5
-
+mruby is built statically, use gomruby as typical Go package. Tested on Go 1.2rc5
