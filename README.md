@@ -14,8 +14,5 @@ It's slightly more than just `go get`:
     make
 
 mruby is built statically, use gomruby as typical Go package.
+Tested on Go 1.2rc5
 
-Issues on MacOS X 10.6.8
------------
-	https://code.google.com/p/go/issues/detail?id=5740
-    https://codereview.appspot.com/10345046
